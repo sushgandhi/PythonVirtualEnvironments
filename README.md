@@ -10,7 +10,8 @@ Recommendation is for each application/project that is being done. a new Virtual
 
 Example - 
 
-<img src="https://drive.google.com/file/d/1CYLtdb2TKuUuJUAEL3eZXYr-qhTamZwf/view?usp=sharing" alt="alt text" title="image Title" width="150"/>
+![List of Environments](https://drive.google.com/file/d/1CYLtdb2TKuUuJUAEL3eZXYr-qhTamZwf/view?usp=sharing "List of Environments")
+
 
 To manage environments - 
 
@@ -55,10 +56,10 @@ sudo apt-get install python3.x
 
 1. Download and Install - https://www.python.org/downloads/macos/
 2. Add Python to PATH
-    i. Navigate: Control Panel -> User Accounts -> Change my Environment Variables
-    ii. Inside the top window labeled 'System Variables' select 'Path' and edit it
-    iii. Select 'Browse' and navigate to C:\python311 and select 'ok'
-    iv. Select 'Move Down' and repeat step 3 for C:\python311\Scripts
+    * Navigate: Control Panel -> User Accounts -> Change my Environment Variables
+    * Inside the top window labeled 'System Variables' select 'Path' and edit it
+    * Select 'Browse' and navigate to C:\python311 and select 'ok'
+    * Select 'Move Down' and repeat step 3 for C:\python311\Scripts
 3. Launch Python from command line - 
 ```python```
 
@@ -86,9 +87,9 @@ confirm by executing ```conda``` command
 
 1. Download and Install - https://www.anaconda.com/download
 2. Add Python to PATH
-    i. Navigate: Control Panel -> User Accounts -> Change my Environment Variables
-    ii. Inside the top window labeled 'System Variables' select 'Path' and edit it
-    iii. Following entries need to be set -
+    * Navigate: Control Panel -> User Accounts -> Change my Environment Variables
+    * Inside the top window labeled 'System Variables' select 'Path' and edit it
+    * Following entries need to be set -
 
             C:\Users<>\Anaconda3\Scripts\
             C:\Users<>\Anaconda3\Library\
