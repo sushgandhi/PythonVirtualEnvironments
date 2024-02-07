@@ -10,7 +10,7 @@ Recommendation is for each application/project that is being done. a new Virtual
 
 Example - 
 
-![List of Environments](https://drive.google.com/file/d/1CYLtdb2TKuUuJUAEL3eZXYr-qhTamZwf/view?usp=sharing "List of Environments")
+![List of Environments](image.png "List of Environments")
 
 
 To manage environments - 
