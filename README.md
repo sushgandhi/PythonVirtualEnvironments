@@ -21,7 +21,9 @@ Anaconda is a popular distribution along with Conda Environments and a package m
 
 If you are starting with Data Analysis/Data Science Experimentation. Anaconda is the goto distribution.
 
+You can set up everything via Anaconda Navigator UI as well. which looks like this - 
 
+![Anaconda Navigator](anaconda_navi.jpeg "Anaconda Navigator")
 
 ## Installation Instructions
 
@@ -186,3 +188,14 @@ Each Virtual Env is created in the folder where the command is executed.
 ##### Export package list
 
 ```pip freeze > requirements.txt```
+
+
+### Starting a new project
+
+When starting a new project. start with a fresh conda environment.
+
+in data analytics and science workloads jupyter notebook kind of environment is amazing to experiment with.
+
+you can set it up with following command after activating the environment
+
+```conda install jupyter```
